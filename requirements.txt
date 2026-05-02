@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-joblib
-requests
-pillow
-tensorflow
-gdown
-scikit-learn
