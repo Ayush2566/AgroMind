@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+joblib
+requests
+pillow
+gdown
+scikit-learn
+tensorflow==2.12.0
